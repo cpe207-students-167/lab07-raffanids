@@ -7,7 +7,7 @@
 
 ชื่อ-สกุล : นายรัฟฟาน วันอิดริส
 
-GitHub Page URL : 
+GitHub Page URL : https://github.com/cpe207-students-167/lab07-raffanids
 
 ---
 
