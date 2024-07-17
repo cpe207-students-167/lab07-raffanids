@@ -94,7 +94,7 @@ submitBtn.onclick = () => {
     isEmailOK = true;
   }
   else{
-    emailInput.classList.add("is-invalid");
+  
   }
 
   if (isFirstNameOk && isEmailOK && isPasswordOK && isConfirmPasswordOK && isLastNameOK ){
